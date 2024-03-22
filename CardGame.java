@@ -19,7 +19,7 @@ public class CardGame {
         return cardDeck;
     } // Ends buildDeck
 
-
+    //Smitha's comment
 
     public static ArrayList<String> shuffleDeck(ArrayList<String> cards) {
         // Chooses a random number and swaps the last card with the card at that number
@@ -73,5 +73,4 @@ public class CardGame {
         System.out.println(Player4);
 
     }
-} 
 
