@@ -70,7 +70,7 @@ public class CardGame {
         System.out.println(Player3);
         System.out.println();
         System.out.print("Player 4 cards: ");
-        System.out.println(Player4);\
+        System.out.println(Player4);
 
         // Myriahm wrote this
 
